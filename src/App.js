@@ -1,8 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import ReactGA from 'react-ga'
+
+const trackingId = "UA-XXXX"
 
 function App() {
+  ReactGA.initialize(trackingId)
   return (
     <div className="App">
       <header className="App-header">
