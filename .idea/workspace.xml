@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79e7c25-92f5-4ff1-a016-772669ea811b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +41,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591131601499</updated>
-      <workItem from="1591131603267" duration="695000" />
+      <workItem from="1591131603267" duration="880000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-934" y="488" width="588" height="486" key="find.popup" timestamp="1591132499429">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-934" y="488" width="588" height="486" key="find.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591132499429" />
+    <state x="-975" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1591132490190">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-975" y="348" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591132490190" />
   </component>
 </project>
