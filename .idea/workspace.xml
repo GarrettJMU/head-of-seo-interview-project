@@ -41,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591131601499</updated>
-      <workItem from="1591131603267" duration="8963000" />
+      <workItem from="1591131603267" duration="11749000" />
     </task>
     <servers />
   </component>
@@ -57,13 +57,13 @@
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-837" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591290653247" />
-    <state x="-934" y="488" width="588" height="486" key="find.popup" timestamp="1591132499429">
+    <state x="-934" y="488" width="588" height="538" key="find.popup" timestamp="1591307956163">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-934" y="488" width="588" height="486" key="find.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591132499429" />
-    <state x="-975" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1591299167863">
+    <state x="-934" y="488" width="588" height="538" key="find.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591307956163" />
+    <state x="-975" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1591309844690">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-975" y="348" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591299167863" />
+    <state x="-975" y="348" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591309844690" />
   </component>
 </project>
