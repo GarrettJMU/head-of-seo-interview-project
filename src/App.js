@@ -10,9 +10,9 @@ export default function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/learn/businesses/plumbing/new/how-to-start-a-plumbing-business/">
-          <AppPage />
-        </Route>
+        {["/LEARN/BUSINESSES/PLUMBING/NEW/HOW-TO-START-A-PLUMBING-BUSINESS/", "/learn/businesses/plumbing/new/how-to-start-a-plumbing-business/"].map((path, index) =>
+          <Route exact path={path} sensitive={true} component={AppPage} key={index} />
+        )}
       </Switch>
     </Router>
   )

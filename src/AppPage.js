@@ -24,6 +24,7 @@ function AppPage() {
             "logo": "logo.com"
           }}`}
         </script>
+
       </Helmet>
       <div className="App">
         <header className="App-header">
