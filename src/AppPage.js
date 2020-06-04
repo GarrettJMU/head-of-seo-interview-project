@@ -16,13 +16,13 @@ function AppPage() {
     <React.Fragment>
       <Helmet>
         <script type="application/ld+json">
-          {{
+          {`${{
             "@context": "https://schema.org",
             "@type": "Airline",
             "name": "HCP",
             "url": "houscall.com",
             "logo": "logo.com"
-          }}
+          }}`}
         </script>
       </Helmet>
       <div className="App">
