@@ -16,7 +16,7 @@ function AppPage() {
     console.log("hitting here")
     window.addEventListener('resize', () => {
       console.log(window.innerWidth)
-      if (window.innerWidth < 400) {
+      if (window.innerWidth < 500) {
         setIsMobile(true)
       } else {
         setIsMobile(false)
