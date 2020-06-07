@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79e7c25-92f5-4ff1-a016-772669ea811b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/_redirects" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +43,18 @@
       <option name="presentableId" value="Default" />
       <updated>1591131601499</updated>
       <workItem from="1591131603267" duration="13743000" />
+      <workItem from="1591552717014" duration="257000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-914" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591552991683">
+      <screen x="-2560" y="-195" width="2560" height="1417" />
+    </state>
+    <state x="-914" y="323" key="#com.intellij.fileTypes.FileTypeChooser/-2560.-195.2560.1417/0.23.1680.1027@-2560.-195.2560.1417" timestamp="1591552991683" />
     <state x="-1017" y="349" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591299861038">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
