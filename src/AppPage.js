@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Desktop from "./desktop.js"
 import Mobile from "./mobile.js"
-import logo from './logo.svg'
+import logo from './_DSC3369.jpg'
 import './App.css'
 import ReactGA from 'react-ga'
 import Header from './header.js'
@@ -16,7 +16,7 @@ function AppPage() {
     console.log("hitting here")
     window.addEventListener('resize', () => {
       console.log(window.innerWidth)
-      if (window.innerWidth < 400) {
+      if (window.innerWidth < 600) {
         setIsMobile(true)
       } else {
         setIsMobile(false)
@@ -29,7 +29,7 @@ function AppPage() {
       <Header />
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={logo} style={{width: 1400}} />
           {isMobile ? <Mobile /> : <Desktop />}
           <video width="440px" loop={true} autoPlay="autoplay" controls muted>
             <source src="http://grochtdreis.de/fuer-jsfiddle/video/sintel_trailer-480.mp4"
