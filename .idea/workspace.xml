@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79e7c25-92f5-4ff1-a016-772669ea811b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/_redirects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591131601499</updated>
       <workItem from="1591131603267" duration="13743000" />
-      <workItem from="1591552717014" duration="257000" />
+      <workItem from="1591552717014" duration="374000" />
     </task>
     <servers />
   </component>
@@ -67,9 +67,10 @@
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-934" y="488" width="588" height="538" key="find.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591307956163" />
-    <state x="-975" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1591312750087">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state x="-975" y="130" width="670" height="676" key="search.everywhere.popup" timestamp="1591553128346">
+      <screen x="-2560" y="-195" width="2560" height="1417" />
     </state>
+    <state x="-975" y="130" width="670" height="676" key="search.everywhere.popup/-2560.-195.2560.1417/0.23.1680.1027@-2560.-195.2560.1417" timestamp="1591553128346" />
     <state x="-975" y="348" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1591312750087" />
   </component>
 </project>
