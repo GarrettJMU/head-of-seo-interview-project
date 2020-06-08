@@ -13,10 +13,17 @@ function AppPage() {
 
   useEffect(() => {
     ReactGA.initialize(trackingId)
-    console.log("hitting here")
+    
+    window.addEventListener('load', () => {
+      if (window.innerWidth < 600 || document.body.offsetWidth < 600) {
+        setIsMobile(true)
+      } else {
+        setIsMobile(false)
+      }
+    })
+
     window.addEventListener('resize', () => {
-      console.log(window.innerWidth)
-      if (window.innerWidth < 600) {
+      if (window.innerWidth < 600 || document.body.offsetWidth < 600) {
         setIsMobile(true)
       } else {
         setIsMobile(false)
