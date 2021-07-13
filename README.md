@@ -1,3 +1,25 @@
+```
+- Serve all text through client-side JS
+- Allow for multiple version of the URL to load (/test/, /test, /Test, /TEST) all should return a 200 response code
+- Lets make the url like 4 sub folders deep
+- Add breadcrumbs, but do not hyperlink them
+- Add images with text in them (lets use a non-detailed file name and not add alt text)
+- Images should be too large for the page
+- All headers should be H1 tags
+- Do not include a canonical tag
+- Do not include a meta robots tag
+- Link to internal pages using a nofollow attribute
+- Add parameters to internal links
+- Lets include a super long title and short meta description
+- Can we show different content on Mobile?
+- Exclude a favicon
+- Add OG Tags/Twitter Cards that pull different information
+- Lets add duplicate content from another domain
+- Include broken GA code (UA-XXXXX)
+- Add broken organization schema
+- Add a video that auto plays
+```
+
 [![Run on Repl.it](https://repl.it/badge/github/GarrettJMU/tony-project)](https://repl.it/github/GarrettJMU/tony-project)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
